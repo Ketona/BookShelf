@@ -17,6 +17,9 @@
     <!-- Custom styles for this template -->
     <link href="css/main.css" rel="stylesheet">
 
+    <!-- Sweat Alert -->
+    <link rel="stylesheet" href="lib/sweet-alert.css">
+
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
