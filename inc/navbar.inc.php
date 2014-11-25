@@ -16,7 +16,7 @@
             <li><a href="#Users">Users</a></li>
             <li><a href="#AddUser">Add User</a></li>
             <li><a href="#AddAnotation">Add anotation</a></li>
-            <li><a href="#LogOut">Log Out</a></li>
+            <li><a href="logout.php">Log Out</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>

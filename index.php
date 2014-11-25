@@ -1,5 +1,5 @@
 <?php 
-	include('inc/manageLogin.inc.php');
+	/*include('inc/manageLogin.inc.php');*/
 	include('inc/header.inc.php'); 
 ?>
 

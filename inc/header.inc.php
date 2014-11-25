@@ -33,7 +33,7 @@
   <body>
 
         <?php
-            if (isset($_SESSION["user_name"])) {
+            if (!isset($_SESSION["user_name"])) {
               include('inc/navbar.inc.php');
             }
         ?>
